@@ -8,9 +8,6 @@ var score := 0:
 		score_changed.emit(score)
 		
 @onready var score_label = $ScoreLabel
-
-func _ready():
-	Input.set_mouse_mode(Input.MOUSE_MODE_HIDDEN)
 	
 func _input(_event):
 	if Input.is_action_pressed("quit"):
