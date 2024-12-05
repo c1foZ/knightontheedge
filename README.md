@@ -10,6 +10,7 @@ Take on the role of a brave knight in this fast-paced 2D platformer! Jump over d
 
 ```bash
 git clone https://github.com/c1foZ/knightontheedge.git
+```
 
 ### Requirements:
 
@@ -39,4 +40,3 @@ Play Knight on the Edge on [itch.io](https://cifoz.itch.io/knight-on-the-edge).
 ## **License**
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
