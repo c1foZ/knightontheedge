@@ -19,9 +19,8 @@ git clone https://github.com/c1foZ/knightontheedge.git
 ### Run the Game:
 
 1. Download and install [Godot Engine](https://godotengine.org/download).
-2. Open Godot and click Import.
-3. Open the project in Godot by selecting the `project.godot` file.
-4. Press Play in the Godot Editor to run the game.
+2. Open the project in Godot by selecting the `project.godot` file.
+3. Press Play in the Godot Editor to run the game.
 
 ---
 
